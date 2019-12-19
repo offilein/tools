@@ -1,0 +1,1 @@
+pip install C:\PythonScripts\__pyodbc__\pyodbc-4.0.27-cp38-cp38-win32.whl
